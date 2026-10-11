@@ -1,0 +1,38 @@
+{
+  "slug": "food-court-catering-service-kattilangadi-atha",
+  "name": "Food Court Catering Service Kattilangadi",
+  "shortName": "Food Court Catering Service Kattilangadi",
+  "descriptor": "Catering Services",
+  "address": "W238+8VR, Kattilangadi Vettichira Rd, Pallippadi, Mattummal, Athavanad, Keralam 676301",
+  "area": "Pallippadi",
+  "city": "Athavanad",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676301",
+  "geo": {
+    "lat": 10.903296899999999,
+    "lng": 76.0171536
+  },
+  "mapsLink": "https://maps.google.com/?cid=16375814704110305354",
+  "phone": "+91 96333 71300",
+  "whatsapp": "919633371300",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "name": "Muhammed KP",
+      "rating": 5,
+      "quote": "Team Food Court event had done our housewarming function in the best way. They made it so beautifully . The food was delicious."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://food-court-catering-service-kattila.vercel.app"
+}
